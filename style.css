@@ -1,0 +1,50 @@
+body{
+
+  height: 100vh;
+  /* width: 100vh; */
+  background-image: linear-gradient(to bottom,rgb(207, 44, 248),rgb(135, 31, 157),rgb(145, 16, 128),rgb(120, 31, 157));
+
+}
+/* div{
+  border: 2px solid black;
+} */
+/* .inp{
+} */
+.location{
+  margin: 30px 0 10px 0;
+  font-size: 40px;
+}
+.date{
+  font-size: 20px;
+  font-weight: 1000;
+  color: rgb(12, 226, 190);
+}
+.temp{
+  margin: 40px;
+  font-size: 60px;
+  text-shadow: 5px;
+  
+}
+.t1{
+  color: lawngreen;
+  text-shadow: 2px 2px orange;
+
+}
+.weather{
+  margin: 20px;
+  font-size: 35px;
+  color: goldenrod;
+  font-weight: 1000;
+  font-style: italic;
+  
+}
+#city{
+  border-radius: 8px 0;
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.min , .max{
+  font-size: 20px;
+  font-weight: 1000;
+  color: rgb(20, 255, 71);
+}
